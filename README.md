@@ -1,2 +1,0 @@
-# SliderPool
-Created with CodeSandbox
